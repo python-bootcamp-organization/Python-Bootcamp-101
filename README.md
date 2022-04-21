@@ -15,3 +15,6 @@ Chapter 6: Object-Oriented Programming
 Chapter 7: Advanced Topics I: Efficiency
 Chapter 8: Advanced Topics II: Complexity
 Chapter 9: Introduction to Data Analysis
+
+
+![alt text](https://github.com/python-bootcamp-organization/Python-Bootcamp-101/blob/main/python%20bootcamp.jpg)
