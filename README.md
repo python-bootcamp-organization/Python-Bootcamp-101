@@ -17,4 +17,9 @@ In this Bootcamp, we took up Mr. Connor P. Milliken's book, which was designed w
     Chapter 9: Introduction to Data Analysis    
     
     
-![alt text](https://github.com/python-bootcamp-organization/Python-Bootcamp-101/blob/main/python%20bootcamp.jpg)
+![alt text](https://github.com/python-bootcamp-organization/Python-Bootcamp-101/blob/main/python%20bootcamp.jpg)    
+
+
+----> Your task now is to follow this book (you'll find it with the files above), along with our Python code to learn well and improve your Python skills.      
+
+ Good Luck 👋
